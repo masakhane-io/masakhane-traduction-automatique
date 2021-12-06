@@ -168,7 +168,7 @@ Cool! Il existe de nombreuses façons d'améliorer les résultats. Nous en avons
 
 # Code de conduite
 
-Voir [Code de conduite](https://github.com/jaderabbit/masakhane/blob/master/CODE_OF_CONDUCT.md).
+Voir [Code de conduite](CODE_OF_CONDUCT.md).
 
 # Référence
 Bibtex
