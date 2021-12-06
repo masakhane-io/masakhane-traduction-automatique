@@ -28,7 +28,7 @@ Site Web: [masakhane.io](https://www.masakhane.io)
 - Consultez les benchmarks de traduction automatique que nous avons soumis [ici](https://github.com/masakhane-io/masakhane/blob/master/language_pairs.md) ! Vous ne voyez pas votre langue ? Veuillez soumettre une référence !
 - Consultez notre [article] (https://arxiv.org/pdf/2003.11529) qui sera publié lors de l'atelier AfricaNLP de l'ICLR 2020.
 - Consultez les articles écrits par nos participants [ici](https://github.com/masakhane-io/masakhane-community/blob/master/publications.md)
-- En savoir plus sur nos [initiatives en cours](https://github.com/masakhane-io/masakhane-community/blob/master/initiatives.md)
+- En savoir plus sur nos [initiatives en cours](initiatives.md)
 - Consultez notre liste de [documents de la communauté](https://github.com/masakhane-io/masakhane-community/blob/master/community-documents.md)
 - Lisez nos [notes de réunion hebdomadaire](https://github.com/masakhane-io/masakhane-community/tree/master/meetingsummaries)
 - Suivez nos publications sur [Medium](https://medium.com/masakhane)
@@ -47,7 +47,7 @@ Il existe de nombreuses façons de contribuer à **MASAKHANE**:
 9. **Raconter nos aventures** - Raconter notre histoire au monde entier en organisant des conférences sur la communauté, en contribuant à notre [publication Medium] (https://medium.com/masakhane) ou en collaborant avec les médias.
 10. **MLOps & ML Engineering** - Vous aimez vous plonger dans l'aspect MLOps de l'Apprentissage Automatique ? Êtes-vous un développeur logiciel cherchant à perfectionner vos compétences d'ingénieur ML ? Rejoignez-nous afin de contribuer à la création d'outils permettant la reproductibilité, la collecte de données ainsi que le partage de modèles !
 
-Vous souhaitez en savoir plus ? Consultez nos [initiatives en cours](https://github.com/masakhane-io/masakhane/blob/master/initiatives.md)
+Vous souhaitez en savoir plus ? Consultez nos [initiatives en cours](initiatives.md)
 
 ### Comment puis-je adhérer ?
 
